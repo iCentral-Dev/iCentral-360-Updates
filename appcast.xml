@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>iCentral 360°</title>
+    <link>https://raw.githubusercontent.com/iCentral-Dev/iCentral-360-Updates/gh-pages/appcast.xml</link>
+    <description>Actualizaciones estables de iCentral 360° para macOS.</description>
+    <language>es-mx</language>
+    <item>
+      <title>iCentral 360° 1.6.1</title>
+      <pubDate>Fri, 18 Sep 2026 09:16:58 +0000</pubDate>
+      <sparkle:version>61</sparkle:version>
+      <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://raw.githubusercontent.com/iCentral-Dev/iCentral-360-Updates/gh-pages/downloads/iCentral-360-1.6.1-61-universal.zip"
+        length="40011255"
+        type="application/octet-stream"
+        sparkle:edSignature="2HdtQVKqwF4IJ1bmf7Eo81IGy3cyFggqgmXdxzvzKOet5/HPaoFnS9Ph0kQ/nVzUITYAcz09AvQrY6och+3PBw==" />
+    </item>
+  </channel>
+</rss>
