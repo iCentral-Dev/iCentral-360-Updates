@@ -11,7 +11,7 @@
       <sparkle:version>65</sparkle:version>
       <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://raw.githubusercontent.com/iCentral-Dev/iCentral-360-Updates/gh-pages/downloads/iCentral-360-1.7.0-65-universal.zip"
+      <enclosure url="https://github.com/iCentral-Dev/iCentral-360-Updates/releases/download/v1.7.0-65/iCentral-360-1.7.0-65-universal.zip"
         length="40147968"
         type="application/octet-stream"
         sparkle:edSignature="glzLHOCq1mmnR78qnYbtQSccOY4pCMMcw82UmE2mdzfbxcjgoaPNdPcCasXUgUW2gUl2mkdfcFx0VxYP2SaaDg==" />
