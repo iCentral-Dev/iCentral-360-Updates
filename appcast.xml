@@ -6,15 +6,15 @@
     <description>Actualizaciones estables de iCentral 360° para macOS.</description>
     <language>es-mx</language>
     <item>
-      <title>iCentral 360° 1.15.0</title>
-      <pubDate>Sun, 27 Sep 2026 12:49:40 +0000</pubDate>
-      <sparkle:version>81</sparkle:version>
-      <sparkle:shortVersionString>1.15.0</sparkle:shortVersionString>
+      <title>iCentral 360° 1.16.0</title>
+      <pubDate>Sun, 27 Sep 2026 15:34:14 +0000</pubDate>
+      <sparkle:version>82</sparkle:version>
+      <sparkle:shortVersionString>1.16.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/iCentral-Dev/iCentral-360-Updates/releases/download/v1.15.0-81/iCentral-360-1.15.0-81-universal.zip"
-        length="42411065"
+      <enclosure url="https://github.com/iCentral-Dev/iCentral-360-Updates/releases/download/v1.16.0-82/iCentral-360-1.16.0-82-universal.zip"
+        length="42417994"
         type="application/octet-stream"
-        sparkle:edSignature="+ZRagxCSkaoGmipEI9Sydys3lGydTa30A2vssD4Q86IgaElvduxZ+ITYCJNkYmj/+rPoXjixNDMUKpfjjwd7Aw==" />
+        sparkle:edSignature="DRCSMeNSNujSgSiub/krrWk0iA4L7ToVUD3f98WsZKkDsvabhHE8+kO+0nIp/M2DBaKiLfO/L7S8wtpNpEGyDQ==" />
     </item>
   </channel>
 </rss>
